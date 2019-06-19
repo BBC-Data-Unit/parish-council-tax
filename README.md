@@ -7,6 +7,7 @@ In June 2019 **Rob England** reported on data showing that dozens of parishes in
 ## Get the data
 
 * Ministry of Housing, Communities & Local Government: [Council Tax statistics](https://www.gov.uk/government/collections/council-tax-statistics)
+* XLSX: [Analysis, including categorisation by BBC radio area and data for charts](https://github.com/BBC-Data-Unit/parish-council-tax/blob/master/PARISH%20STORY%20DATA.xlsx)
 
 ## Quotes and interviews
 
